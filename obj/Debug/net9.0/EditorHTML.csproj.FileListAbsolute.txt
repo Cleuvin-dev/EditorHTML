@@ -1,0 +1,15 @@
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\bin\Debug\net9.0\EditorHTML.exe
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\bin\Debug\net9.0\EditorHTML.deps.json
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\bin\Debug\net9.0\EditorHTML.runtimeconfig.json
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\bin\Debug\net9.0\EditorHTML.dll
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\bin\Debug\net9.0\EditorHTML.pdb
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.AssemblyInfo.cs
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.sourcelink.json
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.dll
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\refint\EditorHTML.dll
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.pdb
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\EditorHTML.genruntimeconfig.cache
+C:\Desenv\Balta\Fundamentos de C#\EditorHTML\obj\Debug\net9.0\ref\EditorHTML.dll
