@@ -13,6 +13,7 @@ namespace EditorHTML
       DrawScreen(); // Chamando a classe de desenho na tela
       WriteOptions();
       var option = short.Parse(Console.ReadLine());
+      HandleMenuOption(option);
     }
 
     public static void DrawScreen() // Classe para criar um desenho na tela do usuario
@@ -63,11 +64,27 @@ namespace EditorHTML
       Console.SetCursorPosition(3, 6);
       Console.WriteLine("1 - Novo arquivo");
       Console.SetCursorPosition(3, 7);
-      Console.WriteLine("2- Abrir");
+      Console.WriteLine("2 - Abrir");
       Console.SetCursorPosition(3, 8);
       Console.WriteLine("0 - Sair");
       Console.SetCursorPosition(3, 10);
       Console.Write("Opção:");
+    }
+
+    public static void HandleMenuOption(short option) // Manipulando o menu
+    {
+      switch (option)
+      {
+        case 1: Console.WriteLine("Editor"); break;
+        case 2: Console.WriteLine("View"); break;
+        case 0:
+          {
+            Console.Clear();
+            Environment.Exit(0);
+            break;
+          }
+        default: Show(); break;
+      }
     }
 
 
